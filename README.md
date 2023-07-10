@@ -25,5 +25,3 @@ This is a list of coding questions that range from basic to advanced. The questi
 * Prim's algorithm.
 * Kruskal's algorithm.
 * The traveling salesman problem.
-
-I hope this list is helpful!
